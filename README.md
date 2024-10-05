@@ -9,14 +9,16 @@ Hi 👋! My name is Chi Nguyen and I'm a Student at Artificial Intelligence, fro
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 # 📊 GitHub Stats:
 
-<div style="display: flex; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api?username=chisngyen&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chisngyen&theme=gruvbox_light&hide_border=false" />
+<div align="center" style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=chisngyen&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false" style="margin-right: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chisngyen&theme=gruvbox_light&hide_border=false" style="margin-left: 10px;" />
 </div>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chisngyen&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chisngyen&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=chisngyen&theme=radical&no-frame=false&no-bg=false&margin-w=4)
