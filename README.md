@@ -65,17 +65,7 @@
 ---
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=chisngyen&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6" width="96%" />
-
+<sub>✦ built with curiosity and ☕ ✦</sub>
 </div>
 
----
-
-<div align="center">
-<sub>✦ built with curiosity and ☕ — <a href="https://chisngyen.github.io">portfolio</a> ✦</sub>
-<br/><br/>
-<img src="https://komarev.com/ghpvc/?username=chisngyen&color=00d4ff&style=flat-square&label=views" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a1a,30:7c3aed,70:00d4ff,100:0a0a1a&height=100&section=footer&text=&fontSize=0" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a1a,30:7c3aed,70:00d4ff,100:0a0a1a&height=80&section=footer&text=&fontSize=0" width="100%" />
