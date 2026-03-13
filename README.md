@@ -1,32 +1,110 @@
-# 💫 About Me:
-Hi 👋! My name is Chi Nguyen and I'm a Student at Artificial Intelligence, from Ho Chi Minh University of Science
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100025518366001) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/chis_ngyen/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguy%C3%AAn-tr%E1%BA%A7n-381513331/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@chishuongnoi) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-
 <div align="center">
-  <div style="display: flex; justify-content: space-around; width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=chisngyen&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false" style="width: 45%;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chisngyen&theme=gruvbox_light&hide_border=false" style="width: 45%;" />
-  </div>
 
-  <br/>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a1a,30:00d4ff,70:7c3aed,100:0a0a1a&height=200&section=header&text=&fontSize=0" width="100%" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chisngyen&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="margin-top: 20px; width: 50%;" />
+<br/>
+
+<!-- Name with custom styling -->
+# Hey, I'm **Chi-Nguyen** 👋
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&repeat=true&width=500&height=25&lines=building+things+at+the+intersection+of+AI+%26+code" alt="Typing SVG" /></a>
+
+<br/>
+
+<a href="https://scholar.google.com/citations?user=dyVn0zMAAAAJ&hl=en"><img src="https://img.shields.io/badge/Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white" /></a>&nbsp;
+<a href="https://www.semanticscholar.org/author/2397381348"><img src="https://img.shields.io/badge/Semantic_Scholar-1857B6?style=flat&logo=semantic-scholar&logoColor=white" /></a>&nbsp;
+<a href="https://orcid.org/0009-0007-6716-7269"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/chi-nguyen-tran-381513331/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="mailto:tcnguyen2365@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=chisngyen&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=chisngyen&limit=5&theme=dark&combine_all_yearly_contributions=true)
+```
+→  AI R&D Lead @ Realtime Robotics (RTR)
+→  Freelance Dev (outsourcing, Canada)
+→  Reviewer @ ACL & CVPR Workshop
+→  BSc CS (AI) @ VNUHCM '27
+```
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 Recent Papers
+
+**MSR 2026** — Predicting review effort in AI-generated PRs
+
+**ACM Multimedia 2025** — Entity extraction for event-based image retrieval
+
+**MMLoSo 2025** *(Oral)* — JHARNA-MT: hybrid NMT for low-resource Indic langs
+
+**arXiv 2025** — LLM agent behaviours via evolutionary game theory
+
+</td>
+<td width="50%" valign="top">
+
+### 🔭 Research Interests
+
+`Cross-View Geo-Localization` · `Vision-Language Models`
+
+`LLM Agent Game Theory` · `Drone Visual Positioning`
+
+`Image Retrieval` · `Contrastive Learning`
+
+`Low-Resource NLP` · `Software Engineering + AI`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### ⚡ Stack
+
+<div align="center">
+
+`Python` · `PyTorch` · `HuggingFace` · `CLIP` · `LoRA`
+<br/>
+`TypeScript` · `React` · `Next.js` · `Node.js` · `C++`
+<br/>
+`Docker` · `Linux` · `Git` · `Kaggle` · `W&B` · `LaTeX`
+
+</div>
+
+<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=chisngyen&icon=3&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=chisngyen&theme=transparent&hide_border=true&title_color=00d4ff&text_color=c9d1d9&icon_color=7c3aed&ring_color=00d4ff&include_all_commits=true&count_private=true&line_height=28" width="47%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chisngyen&theme=transparent&hide_border=true&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" width="47%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chisngyen&bg_color=00000000&color=c9d1d9&line=00d4ff&point=7c3aed&area=true&area_color=00d4ff&hide_border=true&custom_title=Contribution%20Activity" width="96%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=chisngyen&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6" width="96%" />
+
+</div>
+
+---
+
+<div align="center">
+<sub>✦ built with curiosity and ☕ — <a href="https://chisngyen.github.io">portfolio</a> ✦</sub>
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=chisngyen&color=00d4ff&style=flat-square&label=views" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a1a,30:7c3aed,70:00d4ff,100:0a0a1a&height=100&section=footer&text=&fontSize=0" width="100%" />
