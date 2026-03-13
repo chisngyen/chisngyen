@@ -63,9 +63,3 @@
 <br/>
 
 ---
-
-<div align="center">
-<sub>✦ built with curiosity and ☕ ✦</sub>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a1a,30:7c3aed,70:00d4ff,100:0a0a1a&height=80&section=footer&text=&fontSize=0" width="100%" />
