@@ -39,8 +39,6 @@
 
 **MSR 2026** — Predicting review effort in AI-generated PRs
 
-**ACM Multimedia 2025** — Entity extraction for event-based image retrieval
-
 **MMLoSo 2025** *(Oral)* — JHARNA-MT: hybrid NMT for low-resource Indic langs
 
 **arXiv 2025** — LLM agent behaviours via evolutionary game theory
@@ -64,34 +62,7 @@
 
 <br/>
 
-### ⚡ Stack
-
-<div align="center">
-
-`Python` · `PyTorch` · `HuggingFace` · `CLIP` · `LoRA`
-<br/>
-`TypeScript` · `React` · `Next.js` · `Node.js` · `C++`
-<br/>
-`Docker` · `Linux` · `Git` · `Kaggle` · `W&B` · `LaTeX`
-
-</div>
-
-<br/>
-
 ---
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=chisngyen&theme=transparent&hide_border=true&title_color=00d4ff&text_color=c9d1d9&icon_color=7c3aed&ring_color=00d4ff&include_all_commits=true&count_private=true&line_height=28" width="47%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chisngyen&theme=transparent&hide_border=true&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" width="47%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chisngyen&bg_color=00000000&color=c9d1d9&line=00d4ff&point=7c3aed&area=true&area_color=00d4ff&hide_border=true&custom_title=Contribution%20Activity" width="96%" />
-
-</div>
-
-<br/>
 
 <div align="center">
 
