@@ -61,6 +61,8 @@ Two multi-agent papers (drone fleets, multi-camera tracking) under review at AAM
 
 **Web** &nbsp; <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,tailwind&theme=light" />
 
+<img src="assets/daynight.jpg" width="100%" alt="Day job, night research" />
+
 <div align="center">
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=chisngyen&show_icons=true&hide_border=true&border_radius=0&theme=default" />
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chisngyen&layout=compact&hide_border=true&border_radius=0" />
