@@ -4,7 +4,7 @@
 
 ### Chi-Nguyen Tran
 
-Ho Chi Minh City, Vietnam
+Ho Chi Minh City, Vietnam · Looking for PhD positions (Fall 2027) in robot learning and embodied AI
 
 I want machines that can see where they are, agree on what many sensors tell them, decide what to do as a team, and act on it.
 
@@ -57,8 +57,15 @@ I want machines that can see where they are, agree on what many sensors tell the
 Two multi-agent papers (drone fleets, multi-camera tracking) under review at AAMAS 2027. Full list on the [website](https://chisngyen.github.io/publications/).
 
 #### Stack
-**Research** &nbsp; <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,linux,docker,git&theme=light" />
-
-**Web** &nbsp; <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,tailwind&theme=light" />
+<table>
+<tr>
+<td width="110" align="left" valign="middle"><b>Research</b></td>
+<td valign="middle"><img height="44" src="https://skillicons.dev/icons?i=python,pytorch,opencv,linux,docker,git&theme=light" /></td>
+</tr>
+<tr>
+<td width="110" align="left" valign="middle"><b>Web</b></td>
+<td valign="middle"><img height="44" src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,tailwind&theme=light" /></td>
+</tr>
+</table>
 
 <img src="assets/daynight.jpg" width="100%" alt="Day job, night research" />
