@@ -4,6 +4,8 @@
 
 ### Chi-Nguyen Tran
 
+Ho Chi Minh City, Vietnam
+
 I want machines that can see where they are, agree on what many sensors tell them, decide what to do as a team, and act on it.
 
 <a href="https://chisngyen.github.io"><img src="https://img.shields.io/badge/Website-111111?style=flat-square&logo=githubpages&logoColor=white" /></a>
@@ -38,12 +40,10 @@ I want machines that can see where they are, agree on what many sensors tell the
 </table>
 
 #### Research direction
-| | |
-|---|---|
-| **See** | Drones that localize without GPS by matching their view to satellite maps, in fog, rain and at night |
-| **Fuse** | Multi-camera perception that uses the geometry between views, so a new sensor helps instead of confusing the tracker |
-| **Decide** | Multi-agent drone delivery where each drone's real battery capability is unknown and learned online |
-| **Act** | Next: vision-language-action models, policy learning and robotics |
+- **See:** drones that localize without GPS by matching their view to satellite maps, in fog, rain and at night
+- **Fuse:** multi-camera perception that uses the geometry between views, so a new sensor helps instead of confusing the tracker
+- **Decide:** multi-agent drone delivery where each drone's real battery capability is unknown and learned online
+- **Act (next):** vision-language-action models, policy learning and robotics
 
 #### Selected papers
 | Venue | Paper |
@@ -62,8 +62,3 @@ Two multi-agent papers (drone fleets, multi-camera tracking) under review at AAM
 **Web** &nbsp; <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,tailwind&theme=light" />
 
 <img src="assets/daynight.jpg" width="100%" alt="Day job, night research" />
-
-<div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=chisngyen&show_icons=true&hide_border=true&border_radius=0&theme=default" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chisngyen&layout=compact&hide_border=true&border_radius=0" />
-</div>
