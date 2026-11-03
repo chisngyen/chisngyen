@@ -4,9 +4,9 @@
 
 ### Chi-Nguyen Tran
 
-Ho Chi Minh City, Vietnam · Looking for PhD positions (Fall 2027) in robot learning and embodied AI
+Ho Chi Minh City, Vietnam · Looking for PhD positions (Fall 2027) in robotics
 
-I want machines that can see where they are, agree on what many sensors tell them, decide what to do as a team, and act on it.
+I am doing research in robotics: helping robots understand what is around them, know where they are, and act safely when their surroundings change.
 
 <a href="https://chisngyen.github.io"><img src="https://img.shields.io/badge/Website-111111?style=flat-square&logo=githubpages&logoColor=white" /></a>
 <a href="https://scholar.google.com/citations?user=dyVn0zMAAAAJ&hl=en"><img src="https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" /></a>
@@ -40,10 +40,10 @@ I want machines that can see where they are, agree on what many sensors tell the
 </table>
 
 #### Research direction
-- **See:** drones that localize without GPS by matching their view to satellite maps, in fog, rain and at night
-- **Fuse:** multi-camera perception that uses the geometry between views, so a new sensor helps instead of confusing the tracker
-- **Decide:** multi-agent drone delivery where each drone's real battery capability is unknown and learned online
-- **Act (next):** vision-language-action models, policy learning and robotics
+- **Perceive and localize:** robots that keep working when light, weather and surroundings change, with models light enough to run on edge devices
+- **Act:** agents that act reliably on noisy camera input (1st place in both tracks, NeurIPS 2025 Mouse vs. AI)
+- **Test:** finding the road scenarios most likely to break a self-driving car (IEEE ICST 2026)
+- **Next:** teams of robots that learn whom to trust, and vision-language-action models for acting on what they see
 
 #### Selected papers
 | Venue | Paper |
@@ -54,7 +54,7 @@ I want machines that can see where they are, agree on what many sensors tell the
 | **NeurIPS 2026** | [Training-Free Cultural Alignment of LLMs via Persona Disagreement](https://arxiv.org/abs/2605.10843) |
 | **FSE 2026** | [MEMRES: Memory-Augmented Resolver for Agentic Python Dependency Resolution](https://doi.org/10.1145/3803437.3808242) · co-first, winner |
 
-Two multi-agent papers (drone fleets, multi-camera tracking) under review at AAMAS 2027. Full list on the [website](https://chisngyen.github.io/publications/).
+18 peer-reviewed papers in total, 9 as first or co-first author. Full list on the [website](https://chisngyen.github.io/publications/).
 
 #### Stack
 <table>
