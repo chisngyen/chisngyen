@@ -30,6 +30,7 @@ I am doing research in robotics: helping robots understand what is around them, 
 <td width="50%" valign="top">
 
 #### News
+- **Nov 2026** · Paper accepted at Interface Focus (Royal Society)
 - **Sep 2026** · 5 papers accepted at NeurIPS 2026, 2 co-first
 - **Aug 2026** · Vallet Scholarship 2026
 - **Jul 2026** · Winner, FSE-AIWare 2026 tool competition
@@ -54,7 +55,7 @@ I am doing research in robotics: helping robots understand what is around them, 
 | **NeurIPS 2026** | [Training-Free Cultural Alignment of LLMs via Persona Disagreement](https://arxiv.org/abs/2605.10843) |
 | **FSE 2026** | [MEMRES: Memory-Augmented Resolver for Agentic Python Dependency Resolution](https://doi.org/10.1145/3803437.3808242) · co-first, winner |
 
-18 peer-reviewed papers in total, 9 as first or co-first author. Full list on the [website](https://chisngyen.github.io/publications/).
+19 peer-reviewed papers in total, including a Royal Society journal article, 9 as first or co-first author. Full list on the [website](https://chisngyen.github.io/publications/).
 
 #### Stack
 <table>
