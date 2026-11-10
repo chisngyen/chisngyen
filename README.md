@@ -32,7 +32,6 @@ I am doing research in robotics: helping robots understand what is around them, 
 #### News
 - **Nov 2026** · Paper accepted at Interface Focus (Royal Society)
 - **Sep 2026** · 5 papers accepted at NeurIPS 2026, 2 co-first
-- **Aug 2026** · Vallet Scholarship 2026
 - **Jul 2026** · Winner, FSE-AIWare 2026 tool competition
 - **Dec 2025** · 1st Place, NeurIPS 2025 Mouse vs. AI
 
